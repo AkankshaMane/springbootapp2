@@ -1,5 +1,5 @@
 package com.example.insurance;
 
 public class Newclass {
- private int i=11;
+ private int i=12;
 }
